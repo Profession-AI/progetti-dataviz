@@ -63,3 +63,5 @@ Il report sarà completamente **navigabile**, con pulsanti che permettono di pas
 ### Conclusione
 
 Il progetto di gestione dei punti vendita per **TechMarket S.p.A.** rappresenta un’importante opportunità per ottimizzare la gestione delle vendite e migliorare le decisioni aziendali. Il valore aggiunto è evidente nel miglioramento della visibilità sui dati, nella capacità di prendere decisioni strategiche più informate e nell'ottimizzazione delle risorse a livello di punto vendita. L'integrazione dei dati sui resi consente inoltre di ottenere una visione realistica delle vendite nette, migliorando l’accuratezza dei report e aumentando la capacità dell’azienda di adattarsi rapidamente alle variazioni del mercato.
+
+# Modalità di consegna: file .pbix
