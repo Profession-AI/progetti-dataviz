@@ -57,3 +57,4 @@ Puoi pubblicare e condividere la tua dashboard su **Tableau Public** seguendo qu
 3. Pubblica la dashboard su Tableau Public.
 4. Copia il collegamento alla dashboard e condividilo con i tutor
 
+# Modalità di consegna: link pubblico alla dashboard e alla story
